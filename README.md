@@ -21,7 +21,7 @@ This is a simple voice assistant project built in Python that converts spoken la
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/voice-assistant.git
+    git clone https://github.com/shekoder/voice-assistant.git
     cd voice-assistant
     ```
 
